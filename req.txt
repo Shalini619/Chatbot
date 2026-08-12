@@ -1,0 +1,11 @@
+# PostgreSQL database driver
+psycopg[binary]
+
+# Google Gemini API
+google-genai
+
+# Load environment variables from .env
+python-dotenv
+
+# Web app framework
+streamlit
